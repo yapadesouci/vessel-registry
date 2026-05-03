@@ -1,12 +1,22 @@
 [
   {
-    "id": "sample-dist",
+    "id": "vessel-sample",
     "name": "Sample",
     "author": "vessel",
-    "description": "Sample cargo with storage, network, notifications, and clipboard test apps",
+    "description": "Sample cargo with storage, network, notifications, and clipboard test apps.",
     "category": "development",
     "repo": "github.com/yapadesouci/vessel-sample",
-    "latestVersion": "1.0.0",
+    "latestVersion": "1.1.1",
     "downloadUrl": "https://github.com/yapadesouci/vessel-sample/releases/download/1.0.0/sample-dist.zip"
+  },
+  {
+    "id": "vessel-reminder",
+    "name": "Reminder",
+    "author": "vessel",
+    "description": "A calendar-based reminder app with system notifications.",
+    "category": "productivity",
+    "repo": "github.com/yapadesouci/vessel-reminder",
+    "latestVersion": "1.0.1",
+    "downloadUrl": "https://github.com/yapadesouci/vessel-reminder/releases/download/1.0.1/vessel-reminder.zip"
   }
 ]
