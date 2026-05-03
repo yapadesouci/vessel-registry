@@ -4,7 +4,7 @@
     "name": "Sample",
     "author": "vessel",
     "description": "Sample cargo with storage, network, notifications, and clipboard test apps.",
-    "category": "development",
+    "category": "test",
     "repo": "github.com/yapadesouci/vessel-sample",
     "latestVersion": "1.1.1",
     "downloadUrl": "https://github.com/yapadesouci/vessel-sample/releases/download/1.1.1/sample-dist.zip"
