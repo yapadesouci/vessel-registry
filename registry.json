@@ -18,5 +18,15 @@
     "repo": "github.com/yapadesouci/vessel-reminder",
     "latestVersion": "1.0.1",
     "downloadUrl": "https://github.com/yapadesouci/vessel-reminder/releases/download/1.0.1/vessel-reminder.zip"
+  },
+  {
+    "id": "vessel-note",
+    "name": "Note",
+    "author": "vessel",
+    "description": "A simple note-taking app.",
+    "category": "productivity",
+    "repo": "github.com/yapadesouci/vessel-note",
+    "latestVersion": "1.0.0",
+    "downloadUrl": "https://github.com/yapadesouci/vessel-note/archive/refs/tags/1.0.0.zip"
   }
 ]
