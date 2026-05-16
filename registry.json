@@ -1,15 +1,5 @@
 [
   {
-    "id": "vessel-sample",
-    "name": "Sample",
-    "author": "vessel",
-    "description": "Sample cargo with storage, network, notifications, and clipboard test apps.",
-    "category": "test",
-    "repo": "github.com/yapadesouci/vessel-sample",
-    "latestVersion": "1.3.1",
-    "downloadUrl": "https://github.com/yapadesouci/vessel-sample/releases/download/1.3.1/sample-dist.zip"
-  },
-  {
     "id": "vessel-reminder",
     "name": "Reminder",
     "author": "vessel",
@@ -28,5 +18,15 @@
     "repo": "github.com/yapadesouci/vessel-note",
     "latestVersion": "1.0.1",
     "downloadUrl": "https://github.com/yapadesouci/vessel-note/archive/refs/tags/1.0.1.zip"
+  },
+  {
+    "id": "vessel-todo",
+    "name": "Todo",
+    "author": "vessel",
+    "description": "Kanban-style task manager with multiple boards, drag-and-drop columns, and a per-task detail panel.",
+    "category": "productivity",
+    "repo": "github.com/yapadesouci/vessel-todo",
+    "latestVersion": "1.0.0",
+    "downloadUrl": "https://github.com/yapadesouci/vessel-todo/archive/refs/tags/1.0.0.zip"
   }
 ]
