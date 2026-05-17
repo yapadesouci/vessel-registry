@@ -36,7 +36,7 @@
     "description": "Kanban-style task manager with multiple boards, drag-and-drop columns, and a per-task detail panel.",
     "category": "productivity",
     "repo": "github.com/yapadesouci/vessel-todo",
-    "latestVersion": "1.0.2",
-    "downloadUrl": "https://github.com/yapadesouci/vessel-todo/archive/refs/tags/1.0.2.zip"
+    "latestVersion": "1.0.3",
+    "downloadUrl": "https://github.com/yapadesouci/vessel-todo/archive/refs/tags/1.0.3.zip"
   }
 ]
