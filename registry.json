@@ -20,13 +20,23 @@
     "downloadUrl": "https://github.com/yapadesouci/vessel-note/archive/refs/tags/1.0.1.zip"
   },
   {
+    "id": "vessel-xdeck",
+    "name": "XDeck",
+    "author": "vessel",
+    "description": "A TweetDeck-style multi-column social media dashboard.",
+    "category": "social",
+    "repo": "github.com/yapadesouci/vessel-xdeck",
+    "latestVersion": "1.0.0",
+    "downloadUrl": "https://github.com/yapadesouci/vessel-xdeck/archive/refs/tags/1.0.0.zip"
+  },
+  {
     "id": "vessel-todo",
     "name": "Todo",
     "author": "vessel",
     "description": "Kanban-style task manager with multiple boards, drag-and-drop columns, and a per-task detail panel.",
     "category": "productivity",
     "repo": "github.com/yapadesouci/vessel-todo",
-    "latestVersion": "1.0.0",
-    "downloadUrl": "https://github.com/yapadesouci/vessel-todo/archive/refs/tags/1.0.0.zip"
+    "latestVersion": "1.0.1",
+    "downloadUrl": "https://github.com/yapadesouci/vessel-todo/archive/refs/tags/1.0.1.zip"
   }
 ]
