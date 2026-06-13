@@ -2,41 +2,67 @@
   {
     "id": "vessel-reminder",
     "name": "Reminder",
+    "icon": "calendar",
     "author": "vessel",
     "description": "A calendar-based reminder app with system notifications.",
     "category": "productivity",
     "repo": "github.com/yapadesouci/vessel-reminder",
-    "latestVersion": "1.0.1",
-    "downloadUrl": "https://github.com/yapadesouci/vessel-reminder/releases/download/1.0.1/vessel-reminder.zip"
+    "latestVersion": "1.1.0",
+    "downloadUrl": "https://github.com/yapadesouci/vessel-reminder/releases/download/1.1.0/vessel-reminder.zip"
   },
   {
     "id": "vessel-note",
     "name": "Note",
+    "icon": "note",
     "author": "vessel",
     "description": "A simple note-taking app.",
     "category": "productivity",
     "repo": "github.com/yapadesouci/vessel-note",
-    "latestVersion": "1.0.1",
-    "downloadUrl": "https://github.com/yapadesouci/vessel-note/archive/refs/tags/1.0.1.zip"
+    "latestVersion": "1.1.0",
+    "downloadUrl": "https://github.com/yapadesouci/vessel-note/archive/refs/tags/1.1.0.zip"
   },
   {
     "id": "vessel-xdeck",
     "name": "XDeck",
+    "icon": "feed",
     "author": "vessel",
     "description": "A TweetDeck-style multi-column social media dashboard.",
     "category": "social",
     "repo": "github.com/yapadesouci/vessel-xdeck",
-    "latestVersion": "1.0.0",
-    "downloadUrl": "https://github.com/yapadesouci/vessel-xdeck/archive/refs/tags/1.0.0.zip"
+    "latestVersion": "1.1.0",
+    "downloadUrl": "https://github.com/yapadesouci/vessel-xdeck/archive/refs/tags/1.1.0.zip"
+  },
+  {
+    "id": "vessel-mongodb-atlas-chart",
+    "name": "MongoDB Atlas Chart",
+    "icon": "board",
+    "author": "vessel",
+    "description": "Embed and navigate MongoDB Atlas dashboards as Vessel sections.",
+    "category": "developer",
+    "repo": "github.com/yapadesouci/vessel-mongodb-atlas-chart",
+    "latestVersion": "1.1.0",
+    "downloadUrl": "https://github.com/yapadesouci/vessel-mongodb-atlas-chart/archive/refs/tags/1.1.0.zip"
+  },
+  {
+    "id": "vessel-devtools",
+    "name": "DevTools",
+    "icon": "grid",
+    "author": "vessel",
+    "description": "A collection of developer utilities including crypto, converters, web tools, and more.",
+    "category": "developer",
+    "repo": "github.com/yapadesouci/vessel-devtools",
+    "latestVersion": "1.1.0",
+    "downloadUrl": "https://github.com/yapadesouci/vessel-devtools/archive/refs/tags/1.1.0.zip"
   },
   {
     "id": "vessel-todo",
     "name": "Todo",
+    "icon": "board",
     "author": "vessel",
     "description": "Kanban-style task manager with multiple boards, drag-and-drop columns, and a per-task detail panel.",
     "category": "productivity",
     "repo": "github.com/yapadesouci/vessel-todo",
-    "latestVersion": "1.0.3",
-    "downloadUrl": "https://github.com/yapadesouci/vessel-todo/archive/refs/tags/1.0.3.zip"
+    "latestVersion": "1.1.0",
+    "downloadUrl": "https://github.com/yapadesouci/vessel-todo/archive/refs/tags/1.1.0.zip"
   }
 ]
